@@ -22,9 +22,9 @@ spec:
     spec: 
       containers: 
         - name: busapp 
-          image: learnitguide/busapp:2.1 
+          image: learnitguide/busapp:1.0
           ports: 
-            - containerPort: 8001 
+            - containerPort: 8001
           resources: 
             requests: 
               cpu: 250m 
