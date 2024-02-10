@@ -1,2 +1,2 @@
-# aks-flux-poc
-AKS Flux PoC
+# flux-poc-azurek8s
+flux-poc-azurek8s
